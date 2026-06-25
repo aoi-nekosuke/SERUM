@@ -43,10 +43,14 @@
 
 ### Annotation using Underline and Guidelines
 
-	Take for example the snippet of text "Haplotype and genotype 
-	frequencies, Hardy-Weinberg equilibrium, observed heterozygosity, 
-	and gene diversity (expected heterozygosity) were calculated using 
-	PowerMarker v3.25 software" from C. Turchi et al., 2026.
+Take for example the snippet of text "Haplotype and genotype 
+frequencies, Hardy-Weinberg equilibrium, observed heterozygosity, 
+and gene diversity (expected heterozygosity) were calculated using 
+PowerMarker v3.25 software" from C. Turchi et al., 2026.
+
+Underlinging these following their usage guidelines (utilising
+multiple colours) allows one to make review faster and easier.
+
 	
 	Using the above mentioned Underlines, the following is how it would be
 	annotated for an efficient review, scanning and skimming for important
@@ -65,10 +69,10 @@
 -----
 
 NB: 
-	1.  The Underlines and Highlights usage may be mixed, but currently 
+1.  The Underlines and Highlights usage may be mixed, but currently 
 	they are viewed and used as being mutually exclusive. Thus an 
 	overlap and redundancy of contens within and thus the usage, 
 	may be observed among the two.
 
-	2. "Method" here can be generally refer to use of a "Tool", 
+2. "Method" here can be generally refer to use of a "Tool", 
 	"Device", "Instrument" and/or "Technique".
